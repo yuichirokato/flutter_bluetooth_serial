@@ -20,9 +20,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
-  flutter_bluetooth_serial: b5ad356787dfd806579c93d6757a40710b109784
+  flutter_bluetooth_serial: d8338f00d5ff4b6b81a462cac8fb55fadb8c60c2
   integration_test: 7db6d89f336f671dcbc7563ee27a5b08f6f8aee1
 
-PODFILE CHECKSUM: fc81e398f362bae88bdf55239bd5cf842faad39f
+PODFILE CHECKSUM: 8f855a721af426855da6c8439f246e0457fe0afa
 
 COCOAPODS: 1.11.2
